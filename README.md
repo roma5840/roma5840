@@ -12,16 +12,16 @@ I'm Ryan, an IT Security Student / Backend Developer with a strong focus on cybe
 ### 🛠️ Tech Stack
 
 **Languages:**<br>
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,php,html,css,tailwind&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,php,html,css,tailwind&perline=6)](https://skillicons.dev)
 
 **Frameworks & Libraries:**<br>
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel&perline=6)](https://skillicons.dev)
 
 **Databases:**<br>
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite&perline=6)](https://skillicons.dev)
 
 **Tools & Platforms:**<br>
-[![My Skills](https://skillicons.dev/icons?i=git,vercel,netlify,vscode,postman,linux,bash&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,vercel,netlify,vscode,postman,linux,bash,supabase,firebase,cloudflare&perline=6)](https://skillicons.dev)
 
 ---
 
